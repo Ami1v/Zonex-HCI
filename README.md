@@ -1,7 +1,7 @@
 # Zonex-HCI 
 
 
-Инструкция по запуску
+Инструкция по запуску (Писать в терминале)
 
 1 git clone https://github.com/Ami1v/Zonex-HCI.git
 
