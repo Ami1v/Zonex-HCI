@@ -3,12 +3,14 @@
 
 Инструкция по запуску
 
-1 npm-intsall
+1 git clone https://github.com/Ami1v/Zonex-HCI.git
 
-2 npm install --global gulp-cli
+2 npm-intsall
 
-3 cd zonex-shop
+3 npm install --global gulp-cli
 
-4 npm install --save-dev gulp
+4 cd zonex-shop
 
-5 gulp
+5 npm install --save-dev gulp
+
+6 gulp
