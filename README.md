@@ -5,7 +5,7 @@
 
 1 git clone https://github.com/Ami1v/Zonex-HCI.git
 
-2 npm-intsall
+2 npm-intstall
 
 3 npm install --global gulp-cli
 
